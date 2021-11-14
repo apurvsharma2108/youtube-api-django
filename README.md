@@ -8,9 +8,8 @@
 
 4) Update settings.py with your youtube api
 
-5) GOOGLE_API_KEY = "XXX"
-
-6) CHANNEL_ID = 'XXX'
+5) YOUTUBE_DATA_API_KEY = "XXX"
+6) In settings.py you need to add your own YOUTUBE_DATA_API_KEY 
 
 7) python manage.py makemigrations
 
